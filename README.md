@@ -1,0 +1,1 @@
+This repository is for article titled "Prediction of reduction behavior by heating and strain variability of Campylobacter jejuni using amino acid phylogenetics from whole genome sequencing data" (https://doi.org/10.1016/j.ijfoodmicro.2025.111446)
